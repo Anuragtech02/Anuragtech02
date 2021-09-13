@@ -1,9 +1,9 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Anuragtech02">Anurag</a></h2>
 <p>I'm currently a BE Undergrad at <strong><a href="https://www.ietdavv.edu.in/">IET DAVV</a></strong> pursuing <strong>Computer Engineering</strong>. I am working on some side projects and trying to make ideas come to life.</p>
 <p> <a href="https://www.linkedin.com/in/anuragpal02/"><img src="https://img.shields.io/badge/-@anuragpal02-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/anuragpal02/" alt="LinkedIn Badge"></a>&nbsp;
-<a href = "mailto:apal895@gmail.com"><img src="https://img.shields.io/badge/-@apal895@gmail.com-D14836?style=flat-square&amp;&logo=gmail&logoColor=white"/></a>
-<a href = "https://instagram.com/anurag__._"><img src="https://img.shields.io/badge/-@anurag__.__-E4405F?style=flat-square&amp;&logo=instagram&logoColor=white"/></a>
-<a href = "https://twitter.com/anuragp02"><img src="https://img.shields.io/badge/-@anuragp02-1DA1F2?style=flat-square&amp;&logo=twitter&logoColor=white"/></a>
+<a href = "mailto:apal895@gmail.com"><img src="https://img.shields.io/badge/-@apal895@gmail.com-D14836?style=flat-square&amp;&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href = "https://instagram.com/anurag__._"><img src="https://img.shields.io/badge/-@anurag__.__-E4405F?style=flat-square&amp;&logo=instagram&logoColor=white"/></a>&nbsp;
+<a href = "https://twitter.com/anuragp02"><img src="https://img.shields.io/badge/-@anuragp02-1DA1F2?style=flat-square&amp;&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href = "https://www.youtube.com/channel/UCfHLnTVFAZjND2DWAy79XQg"><img src="https://img.shields.io/badge/-@anuragpal-FF0000?style=flat-square&amp;&logo=youtube&logoColor=white"/></a>
 </p>
 &nbsp; &nbsp;
