@@ -40,7 +40,7 @@
 </p>
 <br />
 <center>
-<img src="https://github-readme-stats.vercel.app/api?username=anuragtech02&show_icons=true&count_private=true" alt="anuragtech02" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuragtech02&show_icons=true&count_private=true" alt="anuragtech02-stats" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Anuragtech02.Anuragtech02" alt="visitors"></p>
 </center>
 
