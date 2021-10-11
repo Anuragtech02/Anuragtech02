@@ -16,7 +16,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Anuragtech02">Github</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
 <li>💬 Ping me about <strong>react, design, and iOt</strong>.</li>
-<li>📙 Check out my <a href="https://drive.google.com/file/d/1bx46qnrHRHV3P6FUMkE-QvU84GGFLeKs/view?usp=sharing">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1_uva3U4sECecR1c5kKIPghGvh4pCaz_s/view?usp=sharing">resume</a>.</li>
 <li>🎉 Fun Fact: アニメは見ない</li>
 </ul>
 <br />
