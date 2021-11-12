@@ -12,7 +12,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Anuragtech02/useReactHooks">useReactHooks</a>.</li>
-<li>🧐 Learning about <strong>system design</strong>, <strong>threejs</strong>, and a bit of <strong>AWS</strong>.</li>
+<li>🧐 Learning about <strong>system design</strong>, <strong>Jest</strong>, and a bit of <strong>Cloud</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Anuragtech02">Github</a>.</li>
 <!-- <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
 <li>💬 Ping me about <strong>react, design, and iOt</strong>.</li>
@@ -24,7 +24,6 @@
 <br />
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="margin-left: 10px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 10px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 10px;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-left: 10px;" />
