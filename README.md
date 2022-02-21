@@ -17,7 +17,7 @@
 <!-- <li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li> -->
 <li>💬 Ping me about <strong>react, design, and iOt</strong>.</li>
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1_uva3U4sECecR1c5kKIPghGvh4pCaz_s/view?usp=sharing">resume</a>.</li>
-<li>🎉 Fun Fact: アニメは見ない</li>
+<li>🎉 Fun Fact: 鬼滅の刃が好き</li>
 </ul>
 <br />
 <h2>🚀 Some Tools I Use</h2>
